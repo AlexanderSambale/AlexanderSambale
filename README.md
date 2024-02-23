@@ -18,6 +18,6 @@
 
 ## 💼 Miscellaneous
 
-- 💫 I will focus more on developing mobile apps with flutter and dart.
+- 💫 I will focus more on developing mobile apps implementing cool AI features with flutter and dart.
 - 😎 Looking for **freelancing projects** as Full Stack Developer. Open source related prefered.
 - 📫 How to reach me: github@samxela.eu
