@@ -10,7 +10,7 @@
 ## 👀 Insights 
 
 - 🏰 I am running a server with docker services like nginx_proxy_manager, mailcow, openproject, forgejo, an astro base website and many more on samxela.eu
-- 🎉 Recently I developed a [markdown extension](https://marketplace.visualstudio.com/items?itemName=samxela.markdown-table-structure-based) for vscode. It makes creating and merging tables easier. 
+- 🎉 Recently I developed a [markdown extension](https://marketplace.visualstudio.com/items?itemName=samxela.markdown-table-structure-based) for vscode. It makes creating and merging tables easier. The source code is on [github](https://github.com/AlexanderSambale/markdown-table-structure-based).
 - 🏋 [Acroulette](https://samxela.eu/acroulette) is a game, which can be used for training with voice control. It was developed for Acroyoga, but you can also use it for other activities. At the moment it is only available for [Android](https://play.google.com/store/apps/details?id=de.samxela.acroulette&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1).
 - 🏃There is not enough time to implement all my app ideas.
 - 💪Programming languages I worked with: Java, Kotlin, Typescript, Javascript, PHP, Python, Dart, C++, R, Julia
