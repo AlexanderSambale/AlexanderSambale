@@ -5,6 +5,7 @@
 - 💬 Ask me about anything programming and AI related.
 - ⚡ Fun fact: I want to be able to play beach volleyball when I am 100!
 - 🔥 I would love to combine an [open source augmented reality headset](https://docs.projectnorthstar.org/project-north-star/) with an AI assistant or [talon](https://talonvoice.com).
+- 🐞 I'm really good at this: Finding, understanding and fixing bugs in programs.
 - 👍 Open source software is my first choice.
 
 ## 👀 Insights 
